@@ -19,5 +19,6 @@ require (
 	github.com/mitchellh/go-homedir v1.1.0
 	github.com/pquerna/otp v1.2.0
 	github.com/stretchr/testify v1.6.1 // indirect
+	github.com/terraform-providers/terraform-provider-aws/awsproviderlint v0.0.0-20201014223354-b485d38053e4 // indirect
 	gopkg.in/yaml.v2 v2.3.0
 )
